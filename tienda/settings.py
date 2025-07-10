@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-jmczs3&$)cdq4evbkw3jx@@sved@b#b5tk3p=ik1rhz$^au#e2
 DEBUG = True
 
 #ALLOWED_HOSTS = ['latienda-5ir1.onrender.com']
-ALLOWED_HOSTS = ['https://tienda-django-gcbx.onrender.com']
+ALLOWED_HOSTS = ['tienda-django-gcbx.onrender.com']
 
 
 # Application definition
